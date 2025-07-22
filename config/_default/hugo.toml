@@ -28,6 +28,10 @@ priority = 0.5
 [outputs]
 home = [ "HTML", "RSS", "JSON" ]
 
+[caches]
+  [[caches.images]]
+    dir = ':cacheDir/images'
+
 [related]
 threshold = 0
 toLower = true
