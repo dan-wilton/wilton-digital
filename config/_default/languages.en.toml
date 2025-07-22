@@ -1,0 +1,28 @@
+disabled = false
+languageCode = "en"
+languageName = "English"
+weight = 1
+title = "wilton.digital"
+
+[params]
+displayName = "EN"
+isoCode = "en"
+rtl = false
+dateFormat = "2 January 2006"
+description = "One small step for Dan, one giant leap for Dan-kind."
+logo = "logo-white.png"
+secondaryLogo = "logo-slate.png"
+
+  [params.author]
+  links = [
+    { github = "https://github.com/dan-wilton" },
+    { linkedin = "https://www.linkedin.com/in/daniel-wilton-dev/" },
+    { twitter = "https://twitter.com/wilton_dw?mx=1" },
+    { email = "mailto:daniel@wilton.digital" }
+  ]
+
+["params.author"]
+name = "Daniel Wilton"
+headline = "my personal blog for all things tech, software, and life"
+bio = "Senior SWE 🐙  Tech Enthusiast 👨‍💻  Biker 🏍️"
+image = "profile-picture.jpeg"

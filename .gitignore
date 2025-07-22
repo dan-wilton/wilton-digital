@@ -1,0 +1,12 @@
+# hugo
+*.test
+imports.*
+dist/
+public/
+
+# node
+node_modules/
+
+# os-generated files
+.DS_Store
+.DS_Store?

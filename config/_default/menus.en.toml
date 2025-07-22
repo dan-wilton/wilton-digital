@@ -1,0 +1,19 @@
+[[main]]
+none = "none"
+
+[[main]]
+name = "#blog"
+pre = "pencil"
+pageRef = "posts"
+identifier = "gi3771WzY2"
+weight = 9_999
+
+[[main]]
+name = "#join-the-guild"
+pre = "wand-magic-sparkles"
+pageRef = "guild"
+identifier = "NB6rjfug9X"
+weight = 9_999
+
+[[footer]]
+none = "none"
