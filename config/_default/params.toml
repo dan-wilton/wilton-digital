@@ -19,7 +19,7 @@ verification = { }
 rssnext = { }
 advertisement = { }
 highlightCurrentMenuArea = true
-defaultBackgroundImage = "site-background-fantasy.png"
+defaultBackgroundImage = "site-background.png"
 
 [header]
 layout = "fixed-fill-blur"
@@ -41,7 +41,7 @@ cardView = false
 cardViewScreenWidth = false
 layoutBackgroundBlur = true
 disableHeroImageFilter = false
-homepageImage = "site-background.PNG"
+homepageImage = "site-background.png"
 
 [article]
 showDate = true
