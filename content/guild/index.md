@@ -14,4 +14,4 @@ tags: [
 ---
  Sign up to my mailing list to receive my latest blog posts by email:
 
- 
+<script async src="https://eocampaign1.com/form/9826c7a0-680b-11f0-adee-79e49fe6d1b4.js" data-form="9826c7a0-680b-11f0-adee-79e49fe6d1b4"></script>
