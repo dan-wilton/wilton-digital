@@ -32,8 +32,8 @@ showAppearanceSwitcher = true
 showScrollToTop = true
 
 [homepage]
-layout = "hero"
-showRecent = true
+layout = "profile"
+showRecent = false
 showRecentItems = "5"
 showMoreLink = ""
 showMoreLinkDest = "/posts/"

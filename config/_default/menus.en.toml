@@ -2,7 +2,7 @@
 none = "none"
 
 [[main]]
-name = "#blog"
+name = "#posts"
 pre = "pencil"
 pageRef = "posts"
 identifier = "gi3771WzY2"
