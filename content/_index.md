@@ -1,12 +1,12 @@
 ---
-title: "Daniel Wilton"
-description: "This page was built using the Blowfish theme for Hugo."
+title: 'Daniel Wilton'
+description: 'This page was built using the Blowfish theme for Hugo.'
 ---
 
 <br />
 
 {{< alert icon="death-star" >}}
-  **Caution!** This site is still under construction.
+**Caution!** This site is still under construction.
 {{< /alert >}}
 
 <div style="text-align: left">
