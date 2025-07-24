@@ -5,3 +5,10 @@ themes
 .husky
 bun.lock
 .prettierignore
+**/*.png
+**/*.jpg
+**/*.jpeg
+**/*.gif
+**/*.svg
+**/*.webp
+**/*.ico
