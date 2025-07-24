@@ -12,3 +12,4 @@ bun.lock
 **/*.svg
 **/*.webp
 **/*.ico
+**/*.toml

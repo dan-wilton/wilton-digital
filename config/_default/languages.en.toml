@@ -20,9 +20,7 @@ secondaryLogo = "logo-slate.png"
     { twitter = "https://twitter.com/wilton_dw?mx=1" },
     { email = "mailto:daniel@wilton.digital" }
   ]
-
-["params.author"]
-name = "Daniel Wilton"
-headline = "my personal blog for all things tech, software, and life"
-bio = "Senior SWE 🐙  Tech Enthusiast 👨‍💻  Biker 🏍️"
-image = "profile-picture.jpeg"
+  name = "Daniel Wilton"
+  headline = "my personal blog for all things tech, software, and life"
+  bio = "Senior SWE 🐙  Tech Enthusiast 👨‍💻  Biker 🏍️"
+  image = "profile-picture.jpeg"

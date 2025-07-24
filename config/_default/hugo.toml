@@ -61,3 +61,7 @@ toLower = true
   name = "fragmentrefs"
   type = "fragments"
   weight = 10
+
+[services]
+  [services.disqus]
+    shortname = "wilton-digital"
