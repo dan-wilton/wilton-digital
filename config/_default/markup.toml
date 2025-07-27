@@ -13,7 +13,19 @@
         inline = [['\(', '\)']]
 
 [highlight]
-  noClasses = false
+  noClasses = true
+  anchorLineNos = false
+  codeFences = true
+  guessSyntax = false
+  hl_Lines = ''
+  hl_inline = false
+  lineAnchors = ''
+  lineNoStart = 1
+  lineNos = false
+  lineNumbersInTable = true
+  style = 'catppuccin-frappe'
+  tabWidth = 4
+  wrapperClass = 'highlight'
 
 [tableOfContents]
   startLevel = 2
